@@ -60,7 +60,21 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+
+    DOM is the data structure of HTML elements represented as a Javascript object that we can access and manipulate.
+
 2. What is an event?
+
+    Every user interaction with a site.
+
 3. What is an event listener?
+
+    Event listener is a method that listens to an event such as a click of a button and fires a callback when that event is triggered.
+
 4. Why would we convert a NodeList into an Array?
+
+    NodeList is not an array so it can't take advantage of array methods.
+
 5. What is a component?
+
+    A reusable group of code usually consisting of HTML, CSS, and JS.
